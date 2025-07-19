@@ -157,7 +157,7 @@ Now, Yajnadevam would argue that his decipherment has yielded **"correct"** **[!
 
 Let's review our second assumption that any sequence of plaintext strings decoded from the ciphertext must appear in the English dictionary **[!!2]**. Given a random ciphertext "SGX" without any further information, this is not a requirement even if we assume a substitution cipher - "SGX" could encode German (weg) or Sanskrit (saḥ). In fact, it is not a requirement even if we assume the language of plaintext to be English: the plaintext here could be "his" or "its", neither of which occur in English dictionaries (instead, we would find them in their base forms "he" and "it").
 
-This problem is infinitely worse in Sanskrit, which is a heavily conjugated language, and usage of conjugated forms is grammatically forbidden. To illustrate, a typical Sanskrit sentence would be:
+This problem is infinitely worse in Sanskrit, which is a heavily [conjugated language](https://en.m.wikipedia.org/wiki/Grammatical_conjugation), and usage of non-conjugated forms is grammatically forbidden. To illustrate, a typical Sanskrit sentence would be:
 
 ``हनुमान् वने गच्छति (Āñjaneya goes into the forest)``
 
