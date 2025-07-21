@@ -1,6 +1,7 @@
 ---
 title: US Constitution
 nav_order: 2
+layout: base
 ---
 
 [⬅️ Back to Overview](index.md)

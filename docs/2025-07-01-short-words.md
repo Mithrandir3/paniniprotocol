@@ -1,6 +1,7 @@
 ---
 title: Short Words
 nav_order: 3
+layout: base
 ---
 
 [⬅️ Back to Overview](index.md)

@@ -1,6 +1,6 @@
 ---
 title: Home
-nav_order: 1
+layout: base
 ---
 <!-- MathJax for rendering inline/block LaTeX -->
 <script type="text/javascript" id="MathJax-script" async

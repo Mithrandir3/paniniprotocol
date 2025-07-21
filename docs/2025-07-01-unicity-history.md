@@ -1,6 +1,7 @@
 ---
 title: Unicity Distance History
 nav_order: 3
+layout: base
 ---
 
 <!-- MathJax for rendering inline/block LaTeX -->

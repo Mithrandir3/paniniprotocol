@@ -1,6 +1,7 @@
 ---
 title: Dancing Goalposts
 nav_order: 4
+layout: base
 ---
 
 [⬅️ Back to Overview](index.md)
