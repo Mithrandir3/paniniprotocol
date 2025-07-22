@@ -1,6 +1,6 @@
-title: Your awesome title
+title: Pāṇini Protocol
 author:
-  name: GitHub User
+  name: Ugrashravas
   email: your-email@domain.com
 
 description: >
@@ -51,9 +51,9 @@ minima:
   #     * icon     Font Awesome icon id. `github` corresponds to `fa-github`.
   #     * url      Full URL of social profile.
   social_links:
-    - title: Minima Theme repository at GitHub
+    - title: Paniniprotocol repository at GitHub
       icon: github
-      url: "https://github.com/jekyll/minima"
-    - title: Jekyll at X (formerly Twitter)
+      url: "https://github.com/ugrashravas/paniniprotocol"
+    - title: Ugrashravas at X (formerly Twitter)
       icon: x-twitter
-      url: "https://x.com/jekyllrb"
+      url: "https://x.com/ugrashravas"

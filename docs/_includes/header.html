@@ -1,7 +1,7 @@
 <header class="site-header">
 
+  <a class="site-title" rel="author" href="{{ '/' | relative_url }}">{{ site.title | escape }}</a>
   <div class="wrapper">
-    <a class="site-title" rel="author" href="{{ '/' | relative_url }}">{{ site.title | escape }}</a>
 
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.minima.nav_pages | default: default_paths -%}
@@ -19,3 +19,18 @@
     {%- endunless %}
   </div>
 </header>
+
+<style>
+  .site-header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
+    background: white;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.03);
+  }
+  .site-title {
+  padding-left: 1.5rem;
+}
+</style>
