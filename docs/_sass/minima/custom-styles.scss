@@ -4,8 +4,12 @@
   padding-left: 1.5rem; // Adjust as needed for your design
 }
 
-$page-header-height: 80px;
+$page-header-height: 40px;
 
 .page-content {
+  padding-top: $page-header-height;
+}
+
+.main-content {
   padding-top: $page-header-height;
 }
